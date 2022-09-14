@@ -1,17 +1,6 @@
 # SPC_GRUPO102
 Nombre Proyecto: Simulador de pagos crediticios
 Número Equipo: 10
-          Integrantes del equipo
-                  Rol                              |Nombre
-          (Líder-Desarrollador – Cliente)          [SRUM01.pdf](https://github.com/jeanlol0123/SPC_GRUPO10/files/9562258/SRUM01.pdf)
-|
-                                                   |
-Líder                                              |    Jean Paul Ariza Calderon
-Diseñador                                          |    Edgar Eulises Torres Mosquera
-Desarrollador                                      |    Nelson Mauricio Zamudio Arias
-Desarrollador                                      |    Carlos Alberto Bolaos Chavez
-Cliente Edison                                     |    Lizarazo Camacho
-
 
                                   Descripción Proyecto (Mundo del Proyecto)
 Este proyecto tiene como objetivo desarrollar e implementar un aplicativo web que permita
@@ -32,3 +21,7 @@ del cliente.
 - Desarrollar el aplicativo web que permita al usuario satisfacer su necesidad.
 - Realizar las pruebas de calidad al aplicativo web.
 - Presentar el aplicativo desarrollado al usuario final.
+
+
+[SRUM01.pdf](https://github.com/jeanlol0123/SPC_GRUPO10/files/9562268/SRUM01.pdf)
+
