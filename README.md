@@ -6,14 +6,9 @@ Nombre Proyecto: Simulador de pagos crediticios
 Número Equipo: 	 10 
 
          Integrantes del equipo 
-Rol (Líder-Desarrollador – Cliente)    Nombre 
-Líder  	                               Jean Paul Ariza Calderon 
-Diseñador  	                       Edgar Eulises Torres Mosquera 
-Desarrollador 	                       Nelson Mauricio Zamudio Arias 
-Desarrollador 	                       Carlos Alberto Bolaños Chavez  
-Cliente 	                       Edison Lizarazo Camacho
-![image](https://user-images.githubusercontent.com/113487248/190054151-5493719c-927f-4952-a175-34442c7ab120.png)
-
+         
+![image](https://user-images.githubusercontent.com/113487248/190054685-26f26624-39c0-411d-84da-66192302dab8.png)
+         
       Descripción Proyecto (Mundo del Proyecto) 
 
 Este proyecto tiene como objetivo desarrollar e implementar un aplicativo web que permita a los usuarios simular 
