@@ -3,7 +3,8 @@ Nombre Proyecto: Simulador de pagos crediticios
 Número Equipo: 10
           Integrantes del equipo
                   Rol                              |Nombre
-(Líder-Desarrollador – Cliente)                    |
+          (Líder-Desarrollador – Cliente)          [SRUM01.pdf](https://github.com/jeanlol0123/SPC_GRUPO10/files/9562258/SRUM01.pdf)
+|
                                                    |
 Líder                                              |    Jean Paul Ariza Calderon
 Diseñador                                          |    Edgar Eulises Torres Mosquera
