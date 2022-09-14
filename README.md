@@ -1,4 +1,4 @@
-# SPC_GRUPO10        
+SPC_GRUPO10        
 
         Identificación Proyecto
  
@@ -41,5 +41,10 @@ usuario.
 -	La idea es que el proyecto solo inicie para los bancos (Bancolombia, Banco de Bogotá, Davivienda) de todas 
         maneras no será un impedimento para que el usuario pueda agregar más tasas de intereses para varios bancos. 
 -	El aplicativo debe ser una página web, que permita a los usuarios consultarlo desde cualquier ubicación. 
--	El usuario debe tener la facultad de descargar el talonario de montos a pagar a través de un Excel o CSV. 
+-	El usuario debe tener la facultad de descargar el talonario de montos a pagar a través de un Excel o CSV.
+
+
+
+[SRUM01.pdf](https://github.com/jeanlol0123/SPC_GRUPO10/files/9562268/SRUM01.pdf)
+
 
