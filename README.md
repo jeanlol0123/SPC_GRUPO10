@@ -12,6 +12,7 @@ Diseñador  	                       Edgar Eulises Torres Mosquera
 Desarrollador 	                       Nelson Mauricio Zamudio Arias 
 Desarrollador 	                       Carlos Alberto Bolaños Chavez  
 Cliente 	                       Edison Lizarazo Camacho
+![image](https://user-images.githubusercontent.com/113487248/190054151-5493719c-927f-4952-a175-34442c7ab120.png)
 
       Descripción Proyecto (Mundo del Proyecto) 
 
